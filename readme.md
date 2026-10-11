@@ -11,7 +11,7 @@ Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
 1. Klone repositori ini ke komputer lokal Anda:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/pencetkibot/ollamaSpeedTest
    ```
 
 2. Instal dependensi Python:
